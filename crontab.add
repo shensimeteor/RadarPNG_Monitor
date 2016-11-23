@@ -1,0 +1,1 @@
+15 11 * * * /glade/u/home/sishen/Work/SZMB_Work/RadarPNG_Monitor/radar_monitor.sh 1 -o 0 >> /glade/u/home/sishen/Work/SZMB_Work/RadarPNG_Monitor/log.root
